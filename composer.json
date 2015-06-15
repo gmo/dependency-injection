@@ -14,5 +14,10 @@
 		"psr-4": {
 			"GMO\\DependencyInjection\\": "src/"
 		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1-dev"
+		}
 	}
 }
