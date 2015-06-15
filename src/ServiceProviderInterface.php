@@ -3,6 +3,9 @@ namespace GMO\DependencyInjection;
 
 use Pimple;
 
+/**
+ * @deprecated Use \Silex\ServiceProviderInterface instead
+ */
 interface ServiceProviderInterface {
 
 	/**
