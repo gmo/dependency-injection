@@ -4,6 +4,8 @@ namespace GMO\DependencyInjection;
 use Pimple;
 
 /**
+ * @see ProviderWrapper is available to help transition
+ *
  * @deprecated Use \Silex\ServiceProviderInterface instead
  */
 interface ServiceProviderInterface {
